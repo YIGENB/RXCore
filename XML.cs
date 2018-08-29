@@ -5,7 +5,7 @@ using System.Xml.XPath;
 
 namespace RX
 {
-    public static class XML
+    public static class XMLExt
     {
         public static XDocument ToXDocument(this string xml)
         {

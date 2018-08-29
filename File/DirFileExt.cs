@@ -8,7 +8,7 @@ namespace RX
     /// <summary>  
     /// 文件操作夹  
     /// </summary>  
-    public class DirectoryExt
+    public static class DirFileExt
     {
         #region 检测指定目录是否存在  
         /// <summary>  
@@ -208,7 +208,7 @@ namespace RX
         public static void CreateDir(string dir)
         {
             if (dir.Length == 0) return;
-            if (!Directory.Exists(dir))
+            if (!Directory.Exists( dir))
                 Directory.CreateDirectory(dir);
         }
         #endregion
@@ -249,7 +249,7 @@ namespace RX
             dir = dir.Replace("/", "\\");
             if (dir.IndexOf("\\") > -1)
                 CreateDir(dir.Substring(0, dir.LastIndexOf("\\")));
-            System.IO.StreamWriter sw = new System.IO.StreamWriter(dir, false, System.Text.Encoding.GetEncoding("GB2312"));
+            System.IO.StreamWriter sw = new System.IO.StreamWriter(dir, false, System.Text.Encoding.Default);
             sw.Write(pagestr);
             sw.Close();
         }
@@ -282,7 +282,7 @@ namespace RX
             dir2 = dir2.Replace("/", "\\");
             if (File.Exists(dir1))
             {
-                File.Copy(dir1, dir2, true);
+                File.Copy(dir1,dir2, true);
             }
         }
         #endregion
