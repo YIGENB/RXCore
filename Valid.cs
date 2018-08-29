@@ -189,19 +189,6 @@ namespace RX
         }
 
         /// <summary>
-        /// 字段串是否为Null或为""(空)
-        /// </summary>
-        /// <param name="str"></param>
-        /// <returns></returns>
-        public static bool IsNullOrEmpty(this string str)
-        {
-            if (str == null || str.Trim() == string.Empty)
-                return true;
-
-            return false;
-        }
-
-        /// <summary>
         /// 验证是否为正整数
         /// </summary>
         /// <param name="str"></param>

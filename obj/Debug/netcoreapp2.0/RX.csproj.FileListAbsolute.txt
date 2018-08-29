@@ -16,3 +16,12 @@ E:\我得文档\myDll\core2.0\RX\mydll-core20\RX\obj\Debug\netcoreapp2.0\RX.Asse
 E:\我得文档\myDll\core2.0\RX\mydll-core20\RX\obj\Debug\netcoreapp2.0\RX.dll
 E:\我得文档\myDll\core2.0\RX\mydll-core20\RX\obj\Debug\netcoreapp2.0\RX.pdb
 E:\我得文档\myDll\core2.0\RX\mydll-core20\RX\obj\Debug\netcoreapp2.0\RX.csprojAssemblyReference.cache
+E:\我得文档\myDll\core2.0\RX\mydll-core20\RX\RXCore\bin\Debug\netcoreapp2.0\RX.deps.json
+E:\我得文档\myDll\core2.0\RX\mydll-core20\RX\RXCore\bin\Debug\netcoreapp2.0\RX.dll
+E:\我得文档\myDll\core2.0\RX\mydll-core20\RX\RXCore\bin\Debug\netcoreapp2.0\RX.pdb
+E:\我得文档\myDll\core2.0\RX\mydll-core20\RX\RXCore\obj\Debug\netcoreapp2.0\RX.csprojAssemblyReference.cache
+E:\我得文档\myDll\core2.0\RX\mydll-core20\RX\RXCore\obj\Debug\netcoreapp2.0\RX.csproj.CoreCompileInputs.cache
+E:\我得文档\myDll\core2.0\RX\mydll-core20\RX\RXCore\obj\Debug\netcoreapp2.0\RX.AssemblyInfoInputs.cache
+E:\我得文档\myDll\core2.0\RX\mydll-core20\RX\RXCore\obj\Debug\netcoreapp2.0\RX.AssemblyInfo.cs
+E:\我得文档\myDll\core2.0\RX\mydll-core20\RX\RXCore\obj\Debug\netcoreapp2.0\RX.dll
+E:\我得文档\myDll\core2.0\RX\mydll-core20\RX\RXCore\obj\Debug\netcoreapp2.0\RX.pdb
